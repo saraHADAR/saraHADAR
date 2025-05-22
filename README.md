@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**saraHADAR/saraHADAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 שלום! אני שרה הדר, מפתחת תוכנה ו-UI/UX Designer  
+ברוכה הבאה לפרופיל הגיטהב שלי 💻
 
-Here are some ideas to get you started:
+ 🚀 פרויקטים נבחרים:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| פרויקט | טכנולוגיות | קישור |
+| 🌐 אתר להשתלמות | React + Node.js | [לצפייה](https://github.com/YourUsername/Project1) |
+| 🏨 ניהול בית מלון | Java | [לצפייה](https://github.com/YourUsername/Project2) |
+| 🎉 אתר לגן אירועים | HTML + CSS | [לצפייה](https://github.com/YourUsername/Project3) |
+| 🍖 אתר לחם בשר | React | [לצפייה](https://github.com/YourUsername/Project4) |
+| 📊 פרויקט .NET | C# + Angular + Web API | [לצפייה](https://github.com/YourUsername/Project5) |
+| 🐍 פרויקט בפייתון | Python | [לצפייה](https://github.com/YourUsername/Project6) |
+| 🛒 מכירה סינית | Angular | [לצפייה](https://github.com/YourUsername/Project7) |
+| ⚙️ פרויקט Node בלבד | Node.js | [לצפייה](https://github.com/YourUsername/Project8) |
+
+---
+
+🌱 קצת עליי:
+- מפתחת פולסטאק עם דגש על חוויית משתמש
+- ניסיון במערכות מורכבות ואתרי תדמית
+- אהבה לכתיבת קוד נקי ונגיש
+
+📫 אפשר ליצור קשר גם דרך הפורטפוליו: [yourportfolio.com](https://yourportfolio.com)
